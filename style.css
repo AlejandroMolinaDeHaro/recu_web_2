@@ -1,11 +1,20 @@
 header{
     text-align: right;
-    color: rgb(251, 0, 0);
-    background-color: rgb(31, 31, 48);
+    background-color: rgb(74, 74, 127);
 }
 .formulario{
     text-align: center;
 }
 img{
     margin-top: 30px;
+}
+button{
+    background-color: blue; 
+}
+h1{
+    color: blue;
+}
+a{
+    color: rgb(38, 255, 0);
+    margin-left: 20px;
 }
